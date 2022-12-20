@@ -1,43 +1,60 @@
 body {
   font-family: "Roboto", sans-serif;
 }
-
 .header {
 }
-
 .header-logo {
 }
-
 .header-link {
 }
-
 .header-list {
 }
-
 .header-item {
 }
-
 .header-link-mail {
 }
-
 .header-link-tel {
 }
-
 .main {
 }
-
-.section {
+.section-effective {
 }
-
 .title-one {
 }
-
 .button-btn {
 }
-
+.section-two {
+}
+.visually-hidden {
+}
+.section-two-list {
+}
+.section-two-item {
+}
+.title-three {
+}
+.paragraph {
+}
+.section-what {
+}
 .title-two {
 }
-
+.section-what-list {
+}
+.section-what-item {
+}
+.section-our {
+}
+.section-our-list {
+}
+.section-our-item {
+}
+.footer {
+}
+.footer-link {
+}
+.footer-paragraph {
+}
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -49,25 +66,4 @@ body {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
-}
-
-.title-three {
-}
-
-.section-list {
-}
-
-.section-item {
-}
-
-.paragraph {
-}
-
-.footer {
-}
-
-.footer-link {
-}
-
-.footer-paragraph {
 }
