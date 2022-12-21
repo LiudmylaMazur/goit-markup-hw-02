@@ -39,14 +39,7 @@ body {
   text-transform: uppercase;
 }
 .header-logo-studio {
-  font-family: "Raleway";
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 1.33;
-  display: flex;
   color: #2e2f42;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
 }
 .header-link {
   font-family: "Roboto";
