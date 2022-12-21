@@ -22,13 +22,9 @@ body {
   font-size: 16px;
   letter-spacing: 0.02em;
   text-decoration: none;
-}
-ul:
   list-style: none;
-
-
-a:
-  text-decoraiting: none;
+  text-decoration: none;
+}
 
 .header {
 }
