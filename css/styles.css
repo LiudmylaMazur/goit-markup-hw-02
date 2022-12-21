@@ -29,6 +29,7 @@ body {
 .list {
   list-style: none;
 }
+
 .header {
 }
 .header-logo {
@@ -54,6 +55,7 @@ body {
   color: #2e2f42;
 }
 .header-list {
+  list-style: none;
 }
 .header-item {
 }
