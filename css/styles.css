@@ -1,6 +1,28 @@
-body {
-  font-family: "Roboto", sans-serif;
+:root {
+  --primary-brand: #4d5ae5;
+  --dark: #2e2f42;
+  --success: #31d0aa;
+  --text: #434455;
+  --subtle-text: #8e8f99;
+  --Accent: #e7e9fc;
+  --Accent: #e7e9fc;
+  --Light: #f4f4fd;
+
+  --button-active: #404bbf;
+  --white-text-color: #ffffff;
+
+  --main-font: Roboto, sans-serif;
+  --secondary-font: Raleway, sans-serif;
 }
+
+body {
+  background-color: var(--white-text-color);
+  color: var(--text);
+  font-family: var(--main-font);
+  font-size: 16px;
+  letter-spacing: 0.02em;
+}
+
 .header {
 }
 .header-logo {
@@ -51,8 +73,6 @@ body {
   color: #434455;
 }
 
-.main {
-}
 .section-effective {
   background: #2e2f42;
 }
