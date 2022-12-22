@@ -32,7 +32,7 @@ body {
 .link {
   text-decoration: none;
 }
-
+/* ---------header------------ */
 .header {
 }
 .header-logo {
@@ -57,9 +57,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.list {
-  list-style: none;
-}
+
 .header-item {
 }
 .header-link-mail {
@@ -80,7 +78,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
+/* -----------------first section web ------------- */
 .section-effective {
   background: #2e2f42;
 }
@@ -107,8 +105,11 @@ body {
   color: #ffffff;
   cursor: pointer;
 }
+
+/* -------------------second section web-------------- */
 .section-two {
 }
+
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -143,6 +144,8 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+/* ------------------three section web img ---------------- */
 .section-what {
 }
 .title-two {
@@ -165,6 +168,8 @@ body {
 }
 .section-our-item {
 }
+
+/* --------------------------footer---------------- */
 .footer {
   background: #2e2f42;
 }
@@ -190,11 +195,20 @@ body {
   letter-spacing: 0.02em;
   color: #e7e9fc;
 }
+
+/* ---------------------------section-portfolio------ */
 .section-portfolio {
 }
 .section-portfolio-list {
 }
 .section-portfolio-item {
 }
+.section-portfolio-button:hover {
+  background-color: #4d5ae5;
+  color: #ffffff;
+}
+
 .section-portfolio-button {
+  background: #f4f4fd;
+  color: #4d5ae5;
 }
