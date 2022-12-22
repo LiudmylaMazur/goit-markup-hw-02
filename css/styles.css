@@ -45,6 +45,10 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
+.header-link:hover,
+.header-link:focus {
+  color: #4d5ae5;
+}
 .header-logo-studio {
   color: #2e2f42;
 }
@@ -68,6 +72,12 @@ body {
   line-height: 24px;
   letter-spacing: 0.02em;
   color: #434455;
+}
+.header-link-mail:hover,
+.header-link-mail:focus,
+.header-link-tel:hover,
+.header-link-tel:focus {
+  color: #4d5ae5;
 }
 .header-link-tel {
   font-family: "Roboto";
