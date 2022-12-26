@@ -158,11 +158,12 @@ body {
 }
 .section-what-item {
 }
-.section-our {
+.section-tim {
+  background: #f4f4fd;
 }
-.section-our-list {
+.section-tim-list {
 }
-.section-our-item {
+.section-tim-item {
 }
 
 /* --------------------------footer---------------- */
@@ -200,10 +201,15 @@ body {
 .section-portfolio-button:hover {
   background-color: #4d5ae5;
   color: #ffffff;
-  cursor: pointer;
 }
 
 .section-portfolio-button {
   background: #f4f4fd;
   color: #4d5ae5;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  display: flex;
 }
